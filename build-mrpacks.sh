@@ -6,8 +6,8 @@ INPUT="modrinth.index.json"
 CLIENT_JSON_TMP="client-modrinth.index.json"
 SERVER_JSON_TMP="server-modrinth.index.json"
 
-CLIENT_MRPACK="client-mods.mrpack"
-SERVER_MRPACK="server-mods.mrpack"
+CLIENT_MRPACK="Ferncraft.mrpack"
+SERVER_MRPACK="Ferncraft-SERVER.mrpack"
 
 echo "Creating base JSON files..."
 
