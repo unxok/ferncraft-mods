@@ -34,7 +34,7 @@ echo "Zipping directly into .mrpack files..."
 zip -j "$CLIENT_MRPACK" "$CLIENT_JSON"
 zip -j "$SERVER_MRPACK" "$SERVER_JSON"
 
-echo "🧹 Cleaning up temp files..."
+echo "Cleaning up temp files..."
 rm "$CLIENT_JSON" "$SERVER_JSON"
 
 echo "Done! Created:"
