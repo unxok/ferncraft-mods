@@ -34,4 +34,4 @@ jobs:
             client-mods.mrpack \
             server-mods.mrpack \
             --title "Release $TAG_NAME" \
-            --notes "Automated Modrinth client & server packs for $TAG_NAME"
+            --notes "Please see the [guide](https://github.com/unxok/ferncraft-mods/GUIDE.md) for help installing or updating your mod list."
