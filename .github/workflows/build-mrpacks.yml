@@ -35,4 +35,4 @@ jobs:
             Ferncraft.mrpack \
             SERVER-Ferncraft.mrpack \
             --title "Release $TAG_NAME" \
-            --notes "Please see the [guide](https://github.com/unxok/ferncraft-mods/GUIDE.md) for help installing or updating your mod list."
+            --notes "[CHANGELOG](https://github.com/unxok/ferncraft-mods/CHANGELOG.md)\n\nPlease see the [guide](https://github.com/unxok/ferncraft-mods/GUIDE.md) for help installing or updating your mod list."
