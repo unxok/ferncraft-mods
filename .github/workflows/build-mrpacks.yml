@@ -1,0 +1,37 @@
+name: Build Modrinth Packs
+
+on:
+  push:
+    tags:
+      - "*"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install jq & zip
+        run: sudo apt-get update && sudo apt-get install -y jq zip
+
+      - name: Build mrpacks
+        run: |
+          chmod +x build-mrpacks.sh
+          ./build-mrpacks.sh
+
+      - name: Create GitHub Release with gh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG_NAME="${GITHUB_REF_NAME}"
+
+          gh release create "$TAG_NAME" \
+            client-mods.mrpack \
+            server-mods.mrpack \
+            --title "Release $TAG_NAME" \
+            --notes "Automated Modrinth client & server packs for $TAG_NAME"
