@@ -1,6 +1,7 @@
 name: Build Modrinth Packs
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - "*"
