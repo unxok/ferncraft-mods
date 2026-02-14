@@ -35,12 +35,12 @@ zip -j "$CLIENT_MRPACK" "$CLIENT_JSON_TMP"
 zip -j "$SERVER_MRPACK" "$SERVER_JSON_TMP"
 
 zipnote -w "$CLIENT_MRPACK" <<EOF
-@ $CLIENT_TMP
+@ $CLIENT_JSON_TMP
 @=modrinth.index.json
 EOF
 
 zipnote -w "$SERVER_MRPACK" <<EOF
-@ $SERVER_TMP
+@ $SERVER_JSON_TMP
 @=modrinth.index.json
 EOF
 
