@@ -31,8 +31,8 @@ jobs:
         run: |
           TAG_NAME="${GITHUB_REF_NAME}"
           NOTES=$(cat <<EOF
-          - [CHANGELOG](https://github.com/unxok/ferncraft-mods/CHANGELOG.md) to find out what changed.
-          - [GUIDE](https://github.com/unxok/ferncraft-mods/GUIDE.md) for help installing or updating your mod list.
+          - [CHANGELOG](https://github.com/unxok/ferncraft-mods/blob/main/CHANGELOG.md) to find out what changed.
+          - [GUIDE](https://github.com/unxok/ferncraft-mods/blob/main/GUIDE.md) for help installing or updating your mod list.
           EOF
           )
 
