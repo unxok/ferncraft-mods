@@ -40,4 +40,4 @@ jobs:
             Ferncraft.mrpack \
             SERVER-Ferncraft.mrpack \
             --title "Release $TAG_NAME" \
-            --notes-file "$NOTES"
+            --notes "$NOTES"
