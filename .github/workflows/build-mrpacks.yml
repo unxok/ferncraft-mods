@@ -32,7 +32,7 @@ jobs:
           TAG_NAME="${GITHUB_REF_NAME}"
 
           gh release create "$TAG_NAME" \
-            client-mods.mrpack \
-            server-mods.mrpack \
+            Ferncraft.mrpack \
+            Ferncraft-SERVER.mrpack \
             --title "Release $TAG_NAME" \
             --notes "Please see the [guide](https://github.com/unxok/ferncraft-mods/GUIDE.md) for help installing or updating your mod list."
