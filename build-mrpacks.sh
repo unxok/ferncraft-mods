@@ -3,15 +3,15 @@ set -euo pipefail
 
 INPUT="modrinth.index.json"
 
-CLIENT_JSON="client-modrinth.index.json"
-SERVER_JSON="server-modrinth.index.json"
+CLIENT_JSON="modrinth.index.json"
+SERVER_JSON="modrinth.index.json"
 
 CLIENT_MRPACK="client-mods.mrpack"
 SERVER_MRPACK="server-mods.mrpack"
 
 echo "Creating base JSON files..."
 
-jq '{ dependencies: .dependencies, files: [] }' "$INPUT" > "$CLIENT_JSON"
+jq '{ dependencies: .dependencies, files: [], formatVersion: .formatVersion, game: .game, name: .name, versionId: .versionId }' "$INPUT" > "$CLIENT_JSON"
 jq '{ dependencies: .dependencies, files: [] }' "$INPUT" > "$SERVER_JSON"
 
 echo "Filtering files..."
