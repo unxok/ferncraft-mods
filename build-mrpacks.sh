@@ -12,7 +12,7 @@ SERVER_MRPACK="server-mods.mrpack"
 echo "Creating base JSON files..."
 
 jq '{ dependencies: .dependencies, files: [], formatVersion: .formatVersion, game: .game, name: .name, versionId: .versionId }' "$INPUT" > "$CLIENT_JSON_TMP"
-jq '{ dependencies: .dependencies, files: [] }' "$INPUT" > "$SERVER_JSON_TMP"
+jq '{ dependencies: .dependencies, files: [], formatVersion: .formatVersion, game: .game, name: .name, versionId: .versionId }' "$INPUT" > "$SERVER_JSON_TMP"
 
 echo "Filtering files..."
 
