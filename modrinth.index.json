@@ -15,15 +15,15 @@
 		},
 		{
 			"downloads": [
-				"https://cdn.modrinth.com/data/uy4Cnpcm/versions/CBnLZwRS/Bookshelf-Fabric-1.20.1-20.2.13.jar"
+				"https://cdn.modrinth.com/data/uy4Cnpcm/versions/A4nZEDyK/Bookshelf-Fabric-1.20.1-20.2.15.jar"
 			],
 			"env": { "client": "required", "server": "required" },
-			"fileSize": 322180,
+			"fileSize": 315041,
 			"hashes": {
-				"sha1": "67a67945139b0c26bc8075a746b8f0ed571a9b8a",
-				"sha512": "6cc0536833c4f1922711da91c3baf3a79b4bf8c72aa548a34e8f4852fc9b1cb51f21729c58544fbe05909fd3e1da316d1f885033af5844024cea936c3626e3d2"
+				"sha1": "d41d4d6dd7e41c238c5120831ee35d5cd8673235",
+				"sha512": "560d3a96857aca8049a485525a73b393d475c7cecb0b6c30808d51192277e3cc18cc1471556e9bdbb11e4013ecc60428dc0040f2b42f43978b15e66701a56db4"
 			},
-			"path": "mods/Bookshelf-Fabric-1.20.1-20.2.13.jar"
+			"path": "mods/Bookshelf-Fabric-1.20.1-20.2.15.jar"
 		},
 		{
 			"downloads": [
@@ -84,30 +84,6 @@
 				"sha512": "2428428de360948dad6cd5a40986407c69eebd59eecfd53ef03e8601f25fe70cd2037136c451426920d186fb9b4570cbff18751432a564c226898fca08aa11d1"
 			},
 			"path": "mods/InvMove-0.9.3+1.20.1-Fabric.jar"
-		},
-		{
-			"downloads": [
-				"https://cdn.modrinth.com/data/Vebnzrzj/versions/7PNj6nCm/LuckPerms-Fabric-5.4.102.jar"
-			],
-			"env": { "client": "required", "server": "required" },
-			"fileSize": 1551904,
-			"hashes": {
-				"sha1": "891e2404c0f9790e704e29faa98241178e29fc20",
-				"sha512": "45058fd2bbd2e7723af01a093ef7233d8a6fa2278a2232dfcc2aa53dae6df7ed78dbfbdb9ee133b19bc36655ccff5a4facdd476319c18e290b284733bf10edff"
-			},
-			"path": "mods/LuckPerms-Fabric-5.4.102.jar"
-		},
-		{
-			"downloads": [
-				"https://cdn.modrinth.com/data/fgvoNDL1/versions/18yokD8a/Multiworld-Fabric-bundle.jar"
-			],
-			"env": { "client": "required", "server": "required" },
-			"fileSize": 1008879,
-			"hashes": {
-				"sha1": "4b29589b100f44bf408956782578a9e15d331c50",
-				"sha512": "519861b4439f76a9eaffafc4e6199b2672be6ac18ab9d933287a1e287729b23129736f8f28ea5e09d0d1b23119a12d921f94ee7881dbcd83b719931baa16ef87"
-			},
-			"path": "mods/Multiworld-Fabric-bundle.jar"
 		},
 		{
 			"downloads": [
@@ -387,15 +363,15 @@
 		},
 		{
 			"downloads": [
-				"https://cdn.modrinth.com/data/HqKoXaXz/versions/MAxh4XnC/hardcorerevival-fabric-1.20.1-12.0.9.jar"
+				"https://cdn.modrinth.com/data/HqKoXaXz/versions/7GmVreMG/hardcorerevival-fabric-1.20.1-12.0.10.jar"
 			],
 			"env": { "client": "required", "server": "required" },
-			"fileSize": 230092,
+			"fileSize": 230298,
 			"hashes": {
-				"sha1": "1ab5cc713fe201ee6b54d4fdc0f364d8c72c0b00",
-				"sha512": "0848830f89559182740ec257a27017d8c89cdc5a56476f88101fbc7c53f5f97fbb10e0d4d1c5e24f54d91f0ec088e5e4cb009906f6db0f392cef73d2ab83e883"
+				"sha1": "94e24fffb3b4d7211de5bdb02b7a087c8d3d720a",
+				"sha512": "36519e29549ffc5e7058968bac39be5db782eac359bd65ee00202e49c4e744267dc472bd1527d096b34b8c521377b27d9c8845ad0bcb28e348d1a10ebac55f37"
 			},
-			"path": "mods/hardcorerevival-fabric-1.20.1-12.0.9.jar"
+			"path": "mods/hardcorerevival-fabric-1.20.1-12.0.10.jar"
 		},
 		{
 			"downloads": [
@@ -408,18 +384,6 @@
 				"sha512": "86a6d401db87b2ff20d5cf3f35144fc6d9a5b074b632a1c38510f1cfc9d37ea879f607a54bacc36cda259f6d5c445f17a96b95b87b9de20f9796967edb1eda9b"
 			},
 			"path": "mods/harder-difficulty-1.2.1.jar"
-		},
-		{
-			"downloads": [
-				"https://cdn.modrinth.com/data/SVKv1SZo/versions/XFU1r2i5/iCommon-Fabric-bundle.jar"
-			],
-			"env": { "client": "required", "server": "required" },
-			"fileSize": 898253,
-			"hashes": {
-				"sha1": "abc0f4080d54dcb0ebcded197b096089afa29f19",
-				"sha512": "5d7bf4acc2f7518aa570a3074c0f33f07d2ca9490dc4088520255d04fc0759713622b5d62a511f246add0eb5c33d3d750cf126c8a745edd0735a81b3f50b083f"
-			},
-			"path": "mods/iCommon-Fabric-bundle.jar"
 		},
 		{
 			"downloads": [
@@ -749,5 +713,5 @@
 	"formatVersion": 1,
 	"game": "minecraft",
 	"name": "Ferncraft",
-	"versionId": "1.0.0"
+	"versionId": "1.0.1"
 }
