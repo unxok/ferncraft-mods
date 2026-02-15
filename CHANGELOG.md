@@ -2,6 +2,22 @@
 
 Changes to the mod list will be notated here for each release. The newest version will be nearest to the top.
 
+## 1.0.1
+
+2026-02-14
+
+MultiWorld was actually more restrictive than I had thought, so I'm ditching it (and LuckPerms which was going to be used with it), and instead I'm going to create a separate server for createive.
+
+Removed:
+
+- [LuckPerms](https://modrinth.com/mod/Vebnzrzj) by Luck
+- [Multiworld\-bundle](https://modrinth.com/mod/fgvoNDL1) by isaiah
+- [iCommonLib\-bundle](https://modrinth.com/mod/SVKv1SZo) by isaiah
+
+Updated:
+
+- [Hardcore Revival](https://modrinth.com/mod/HqKoXaXz) by BlayTheNinth
+
 ## 1.0.0
 
 2026-02-14
