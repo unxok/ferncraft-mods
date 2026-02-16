@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.2
+
+2026-02-15
+
+Removed:
+
+- [Better Combat](https://modrinth.com/mod/5sy6g3kz). It had weird visual bugs when combined with other mods used in this pack.
+
+Added:
+
+- [Horseman](https://modrinth.com/mod/horseman)
+- [Let's Do Camping](https://modrinth.com/mod/lets-do-camping)
+
 Changes to the mod list will be notated here for each release. The newest version will be nearest to the top.
 
 ## 1.0.1
