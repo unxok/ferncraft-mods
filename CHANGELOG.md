@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.3
+
+2026-02-15
+
+Removed:
+
+- [Let's Do Camping](https://modrinth.com/mod/lets-do-camping). Crashes on world load.
+
+Added:
+
+- [Comforts](modrinth.com/mod/SaCpeal4)
+
 ## 1.0.2
 
 2026-02-15

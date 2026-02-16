@@ -195,18 +195,6 @@
 		},
 		{
 			"downloads": [
-				"https://cdn.modrinth.com/data/uJXTNuf0/versions/SSH5l1XT/camping-fabric-1.20.1-2.0.0.jar"
-			],
-			"env": { "client": "required", "server": "required" },
-			"fileSize": 1744136,
-			"hashes": {
-				"sha1": "234137daaa3d1563ec2cf7d95e832ca207003c1e",
-				"sha512": "8e76e88db390625961fbd5d1e020f851d1066802b469c64a08b2eaa2dc43a9c194ff0fbebd516da13c14c032a40ee0fe6d82746c977122aafe1fce172c1fb7c6"
-			},
-			"path": "mods/camping-fabric-1.20.1-2.0.0.jar"
-		},
-		{
-			"downloads": [
 				"https://cdn.modrinth.com/data/joEfVgkn/versions/Mkla4B3q/carryon-fabric-1.20.1-2.1.2.7.jar"
 			],
 			"env": { "client": "required", "server": "required" },
@@ -240,6 +228,18 @@
 				"sha512": "bc6136fbec7447ef3d7ecd150dc3f531f7980e8dea95c638cbb06ddef1f28aeadd72a214baff0232fd2fd28f931061b7571f4f1fb7acf6fc1c08965ea481cfda"
 			},
 			"path": "mods/collective-1.20.1-8.13.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 693624,
+			"hashes": {
+				"sha1": "96c1b52fa6dcff140b56e17ce980d2a5c528fad2",
+				"sha512": "c1796378b47aa03544b772d2b631d7387e4365ba0c0a3468dc5e78348d26e0406bd015b530e0acab679e090310aafd201a106e519d3b9e32b26e0db9928b04be"
+			},
+			"path": "mods/comforts-fabric-6.4.0+1.20.1.jar"
 		},
 		{
 			"downloads": [
