@@ -1,8 +1,16 @@
 # Changelog
 
+## 1.0.5
+
+2026-02-21
+
+Removed:
+
+- [Shield Expansion](https://modrinth.com/mod/shield-expansion)
+
 ## 1.0.4
 
-2026-02-15
+2026-02-21
 
 Added:
 

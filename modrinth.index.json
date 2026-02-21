@@ -699,18 +699,6 @@
 		},
 		{
 			"downloads": [
-				"https://cdn.modrinth.com/data/sjxWxSao/versions/osUp6rVc/shieldexp-fabric-1.20.1-1.3.6.jar"
-			],
-			"env": { "client": "required", "server": "required" },
-			"fileSize": 261489,
-			"hashes": {
-				"sha1": "ce54d103ececfa306ba9a9c1319eb3622470ecd9",
-				"sha512": "737433f7b0817c6cd546b1122dff138cee27a51c7834d61618d26452db3c2d37b96db2a5104244a039f54653bc50cb53eb52ef9d4364fcf7feee6749e133a04a"
-			},
-			"path": "mods/shieldexp-fabric-1.20.1-1.3.6.jar"
-		},
-		{
-			"downloads": [
 				"https://cdn.modrinth.com/data/2M01OLQq/versions/gVxjsEiQ/shulkerboxtooltip-fabric-4.0.4%2B1.20.1.jar"
 			],
 			"env": { "client": "required", "server": "required" },
