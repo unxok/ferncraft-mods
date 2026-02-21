@@ -1,5 +1,5 @@
 {
-	"dependencies": { "fabric-loader": "0.16.10", "minecraft": "1.20.1" },
+	"dependencies": { "fabric-loader": "0.16.14", "minecraft": "1.20.1" },
 	"files": [
 		{
 			"downloads": [
@@ -111,6 +111,30 @@
 		},
 		{
 			"downloads": [
+				"https://cdn.modrinth.com/data/ZX66K16c/versions/sdb70E1E/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 96114,
+			"hashes": {
+				"sha1": "1b7884c545556c4b693353ed4cff64aa29d8eb9c",
+				"sha512": "4303931f804697027186aa97595c03d7503aa0b00934a9133fd35f95ee119352a03c8b8c66515aaabbf1e2c1ac2b120a03800c80da57e03bc12b4e57b47f0807"
+			},
+			"path": "mods/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/QAGBst4M/versions/wfZ1WUlB/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 692564,
+			"hashes": {
+				"sha1": "2966f77f7cbc6c40c781bad5e12aaade5623c64a",
+				"sha512": "cad899693205f24f03aff92357aedc1560c1dd83f7ae421ab1b2a5bd53193f5b8f7b895547197e2187c930773811ae15d86cd2753f51fed53fa9cbc9a9a92c23"
+			},
+			"path": "mods/PuzzlesLib-v8.0.15-1.20.1-Fabric.jar"
+		},
+		{
+			"downloads": [
 				"https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
 			],
 			"env": { "client": "required", "server": "required" },
@@ -207,6 +231,18 @@
 		},
 		{
 			"downloads": [
+				"https://cdn.modrinth.com/data/Ti7URSCn/versions/5mZ5toG3/classic-enchanted-golden-apple-crafting-1.1.2.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 12598,
+			"hashes": {
+				"sha1": "0db9dffdfc9f9ba5cac85639f9de458ff128cb20",
+				"sha512": "906c0f910ed1acc9cb677304409acc3061756c3bf3dd9f00f898fa592598ccab4f1922de09a1192762999777fd78a7693e1b6852a98b729eae078e814e1a760b"
+			},
+			"path": "mods/classic-enchanted-golden-apple-crafting-1.1.2.jar"
+		},
+		{
+			"downloads": [
 				"https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar"
 			],
 			"env": { "client": "required", "server": "required" },
@@ -252,6 +288,30 @@
 				"sha512": "4a03363dd9cfd517eb04bea77779c88e74f12c1dacadc726869cb9b595348d615e50041893ad72155f7ac2c359219604710d6157dec95a46fe0e598ef5642035"
 			},
 			"path": "mods/coroutil-fabric-1.20.1-1.3.7.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/kp46XQIc/versions/DAMoE4SE/craftable-horse-armor-1.20-1.20.1.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 98366,
+			"hashes": {
+				"sha1": "42450322fa230472ab19963b655b2783e6376088",
+				"sha512": "96e66bf5176efe5b263b548a751abeccbf95317a6fbed447abaf58efb6ba2100cebf74e503f8bab3ba0eac82ad63c4d246c8a515a69ea60bd4180987f2dc5a9e"
+			},
+			"path": "mods/craftable-horse-armor-1.20-1.20.1.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/pAONjoSH/versions/213IPd8u/crafter-1.0.2-1.20.1.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 115826,
+			"hashes": {
+				"sha1": "e727fadd24197b80baedd7754a7e7dc46c7cca09",
+				"sha512": "57af47847f15746521084759e02a3888da137511652793507fc7b70d41e05ac72d6cc7cbdf6f88d934649e37cee31f139c76219d6786fc2df449fce842ebf917"
+			},
+			"path": "mods/crafter-1.0.2-1.20.1.jar"
 		},
 		{
 			"downloads": [
@@ -327,6 +387,18 @@
 		},
 		{
 			"downloads": [
+				"https://cdn.modrinth.com/data/Kfr0BQO9/versions/4XJS1jmv/enchantments-plus-fabric-1.2.2%2B1.20.1.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 454846,
+			"hashes": {
+				"sha1": "804ea667f3131e6dc1b5f2a40ffbfd542aee948c",
+				"sha512": "6735e4078ccef58a631ccf08f70243723d079e25329341817a9863f3edd7c689f05123802e77a1a57fa795f4198aaf72e19cdf7aee6432873d54043890585ba2"
+			},
+			"path": "mods/enchantments-plus-fabric-1.2.2+1.20.1.jar"
+		},
+		{
+			"downloads": [
 				"https://cdn.modrinth.com/data/NNAgCjsB/versions/QFXoqZHC/entityculling-fabric-1.9.5-mc1.20.1.jar"
 			],
 			"env": { "client": "required", "server": "unsupported" },
@@ -372,6 +444,18 @@
 				"sha512": "3f0cef7eef4507b4d5b82bb70ffc2349bcbbf3597990101c75e80ff32b3fa46427679d4ed4c8e1f86b83d7fb4168a0caea2764e14d86e83b65b6f3709eb602dd"
 			},
 			"path": "mods/geckolib-fabric-1.20.1-4.8.3.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/Heh3BbSv/versions/PPa2XIsX/gravestones-1.2.10%2B1.20%2BA.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 267184,
+			"hashes": {
+				"sha1": "cbd7a1f8d75df7519731e95ea073619f3f0cfddc",
+				"sha512": "03717d42e7220f1240440ae88f559f942ca4cdbbef0bfa162326e03dc5352a8c45d547681135a067403899639902c62b75d9a8462bb189ffd3579611d58e7949"
+			},
+			"path": "mods/gravestones-1.2.10+1.20+A.jar"
 		},
 		{
 			"downloads": [
@@ -567,6 +651,18 @@
 		},
 		{
 			"downloads": [
+				"https://cdn.modrinth.com/data/ZLKQjA7t/versions/fmCMXBJ5/pneumonocore-1.2.1%2B1.20%2BA.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 156579,
+			"hashes": {
+				"sha1": "66001b561ad888dc3af0e2f64683f70b8b019a91",
+				"sha512": "a3387c21274b05144adba143f554c4698b994b027c2a2045d65068cec1bb609c07383ff4d336798b0f9eda3a3544cb9ace4671306125e6d6b0c1642705686e6f"
+			},
+			"path": "mods/pneumonocore-1.2.1+1.20+A.jar"
+		},
+		{
+			"downloads": [
 				"https://cdn.modrinth.com/data/M1953qlQ/versions/2gStMKhM/resourcefulconfig-fabric-1.20.1-2.1.3.jar"
 			],
 			"env": { "client": "required", "server": "required" },
@@ -600,6 +696,30 @@
 				"sha512": "cd286ceb3fc2a270be526529fc2fd3fe690fff72881ef5ec5c3b572bb19f6da2e580d83ec7ded93361b1558e54490105701a49f32366da94f7ef7c2b7244de3b"
 			},
 			"path": "mods/saddle-1.0.0.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/sjxWxSao/versions/osUp6rVc/shieldexp-fabric-1.20.1-1.3.6.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 261489,
+			"hashes": {
+				"sha1": "ce54d103ececfa306ba9a9c1319eb3622470ecd9",
+				"sha512": "737433f7b0817c6cd546b1122dff138cee27a51c7834d61618d26452db3c2d37b96db2a5104244a039f54653bc50cb53eb52ef9d4364fcf7feee6749e133a04a"
+			},
+			"path": "mods/shieldexp-fabric-1.20.1-1.3.6.jar"
+		},
+		{
+			"downloads": [
+				"https://cdn.modrinth.com/data/2M01OLQq/versions/gVxjsEiQ/shulkerboxtooltip-fabric-4.0.4%2B1.20.1.jar"
+			],
+			"env": { "client": "required", "server": "required" },
+			"fileSize": 1215693,
+			"hashes": {
+				"sha1": "40b822aeed9de6aec3c872af9be2ba17b3867482",
+				"sha512": "65cdc8b565e5a7f9a855dd35c7c4b20daae0c6a5822e9a32dabd0f8fd4df6353c9fbd9d1437b83c6f7824e1c65ce466a82f70a7b7ef007bd54afa63718037043"
+			},
+			"path": "mods/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar"
 		},
 		{
 			"downloads": [
@@ -737,5 +857,5 @@
 	"formatVersion": 1,
 	"game": "minecraft",
 	"name": "Ferncraft",
-	"versionId": "1.0.1"
+	"versionId": "1.0.4"
 }

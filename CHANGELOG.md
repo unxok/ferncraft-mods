@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.0.4
+
+2026-02-15
+
+Added:
+
+- [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)
+- [Classic Enchanted Golden Apple Crafting](https://modrinth.com/datapack/classic-enchanted-golden-apple-crafting)
+- [Craftable Horse Armor](https://modrinth.com/datapack/craftable-horse-armor-by-sumbaii999)
+- [Enchantments-Plus](https://modrinth.com/mod/enchantments-plus)
+- [Gravestones](https://modrinth.com/mod/pneumono_gravestones)
+- [Shield Expansion](https://modrinth.com/mod/shield-expansion)
+- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq)
+
 ## 1.0.3
 
 2026-02-15
