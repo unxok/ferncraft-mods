@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.6
+
+2026-03-01
+
+Added:
+
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Villager Talk](https://modrinth.com/mod/villagertalk1)
+- [Villager Death Messages](https://modrinth.com/mod/villager-death-messages)
+- [Indium](https://modrinth.com/mod/indium)
+- [Enhanted Vertical Slabs](https://modrinth.com/mod/enchanted-vertical-slabs)
+
 ## 1.0.5
 
 2026-02-21
